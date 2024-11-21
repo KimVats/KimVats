@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently learning java, spring, spring boot, AWS.
+💬 Take a look at spring repository to find all the examples related to spring.
 
 <!--
 **KimVats/KimVats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
